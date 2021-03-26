@@ -1,0 +1,26 @@
+{
+  "name": "react-animated-hearts",
+  "version": "1.0.0",
+  "description": "Animated heart SVG icons for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-simms/react-animated-hearts.git"
+  },
+  "keywords": [
+    "react",
+    "animated",
+    "hearts",
+    "svg",
+    "icons"
+  ],
+  "author": "Daniel Simms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniel-simms/react-animated-hearts/issues"
+  },
+  "homepage": "https://github.com/daniel-simms/react-animated-hearts#readme"
+}
